@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\week08-2\week08-2\bin\Debug\week08-2.exe.config
+C:\Users\PC\source\repos\week08-2\week08-2\bin\Debug\week08-2.exe
+C:\Users\PC\source\repos\week08-2\week08-2\bin\Debug\week08-2.pdb
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08-2.csprojAssemblyReference.cache
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08_2.Form1.resources
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08_2.Properties.Resources.resources
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08-2.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08-2.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08-2.exe
+C:\Users\PC\source\repos\week08-2\week08-2\obj\Debug\week08-2.pdb
